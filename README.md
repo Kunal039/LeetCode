@@ -4,5 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kunal039/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kunal039/LeetCode/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kunal039/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kunal039/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kunal039/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
