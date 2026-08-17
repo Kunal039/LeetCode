@@ -23,8 +23,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Kunal039/LeetCode/tree/master/0068-text-justification) |
+| [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Kunal039/LeetCode/tree/master/0068-text-justification) |
+## Greedy
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+## Sorting
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
