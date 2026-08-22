@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Kunal039/LeetCode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal039/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kunal039/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 ## Simulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Kunal039/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal039/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kunal039/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Newton's Method
 |  |
 | ------- |
