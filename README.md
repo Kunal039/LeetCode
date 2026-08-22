@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kunal039/LeetCode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kunal039/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kunal039/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
