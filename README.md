@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kunal039/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kunal039/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Kunal039/LeetCode/tree/master/0068-text-justification) |
+| [0205-isomorphic-strings](https://github.com/Kunal039/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Kunal039/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0621-task-scheduler](https://github.com/Kunal039/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
