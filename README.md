@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Kunal039/LeetCode/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/Kunal039/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0621-task-scheduler](https://github.com/Kunal039/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Kunal039/LeetCode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Kunal039/LeetCode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Kunal039/LeetCode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
