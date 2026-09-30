@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Kunal039/LeetCode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal039/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kunal039/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Kunal039/LeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Kunal039/LeetCode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Kunal039/LeetCode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Kunal039/LeetCode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/Kunal039/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
@@ -71,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Kunal039/LeetCode/tree/master/0621-task-scheduler) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kunal039/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
